@@ -6,7 +6,7 @@ For this final project, this system shall use the SPI protocol to communicate wi
 ![Picture](./image.jpg)
 
 # Youtube Link
-Coming Soon
+https://youtu.be/KbFIhe4pUgo
 
 ## Summary
 This project is a tilt game, where the user will have to tilt the FPGA board to move the sprite on screen and avoid any walls.
